@@ -1,5 +1,5 @@
 ### Hi there 👋
-## H2 Hi I'm Kittikorn, Welcome to my Github profile 👋
+## Hi I'm Kittikorn, Welcome to my Github profile 👋
 <!--
 **Banklii/Banklii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
