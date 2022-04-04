@@ -1,8 +1,10 @@
 ### Hi there 👋
 ## Hi I'm Kittikorn, Welcome to my Github profile 👋
+
+🌱 I’m currently learning programing & more 
 <!--
 **Banklii/Banklii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🌱 I’m currently learning programing & more 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
