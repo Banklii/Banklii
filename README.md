@@ -1,7 +1,13 @@
 ### Hi there 👋
 ## Hi I'm Kittikorn, Welcome to my Github profile 👋
 
-🌱 I’m currently learning programing & more 
+🌱 I’m currently learning programing & more
+
+## 💖 Get follow
+
+👉 [Facebook](https://www.facebook.com/banksorryza/)<br>
+👉 [Instagram](https://www.instagram.com/banklii_12/)<br>
+👉 [E-mail](naybanksorryza123@gmail.com)<br>
 <!--
 **Banklii/Banklii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
