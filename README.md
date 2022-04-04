@@ -1,4 +1,3 @@
-### Hi there 👋
 ## Hi I'm Kittikorn, Welcome to my Github profile 👋
 
 🌱 I’m currently learning programing & more
